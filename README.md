@@ -31,12 +31,12 @@ Users can add, complete, and delete tasks for specific dates, making it ideal fo
    git clone https://github.com/Vishnu-Singh16/Calendar-Based-ToDo-Planner.git
 
 2. Navigate to the project folder:
-
+   ```bash	
    cd Calendar-Based-ToDo-Planner
 
 
 
 3. Run the application:
-
+   ```bash
    python todo.py
 
