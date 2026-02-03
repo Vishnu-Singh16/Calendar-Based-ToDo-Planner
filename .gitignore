@@ -1,0 +1,6 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
+tasks_by_date.json
